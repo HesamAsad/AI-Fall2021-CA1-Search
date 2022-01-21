@@ -8,3 +8,4 @@ To fight Thanos, Dr. Strange must collect all the potions of the great temple an
 
 `BFS`, `IDS`, `A*`, and `weighted A*` algorithms are implemented in order to find the optimal way of getting doctors to the end of the temple.
 
+Personal website: https://hesamasad.github.io
